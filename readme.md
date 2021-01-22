@@ -71,5 +71,7 @@ e se você aprendeu alguma coisa com este repositório.
    "Finalmente estou aprendendo! OMG"
 15. [@Renan-C](https://github.com/Renan-C)
    "\o/"
-13. [@seu-nick-github](https://github.com/seu-link)
+16. [@PedroRFigueiredo](https://github.com/PedroRFigueiredo/)
+   "Valeu pelo compartilhamento de conhecimento"
+17. [@seu-nick-github](https://github.com/seu-link)
     "Colocar um comentário"
